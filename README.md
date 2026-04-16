@@ -1,4 +1,4 @@
-                                                                                # Chugli 💬
+# Chugli 💬
 
 Chugli is a real-time web-based chat application built using Python, Flask, and Socket.IO. It features user authentication, real-time messaging, and profile customization capabilities.
 
